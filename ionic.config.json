@@ -1,0 +1,7 @@
+{
+  "name": "ngx-quill-ionic-v4",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
