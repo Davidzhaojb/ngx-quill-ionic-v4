@@ -1,5 +1,13 @@
 # ngx-quill-ionic-v4
 
+## use
+
+* Angular 7.2.2
+* ionic 4.12.0
+* cordova 8.0.0
+* Npm 6+
+* node 10.15.0
+
 Example of [ngx-quill](https://github.com/KillerCodeMonkey/ngx-quill) and ionic v4
 
 [Live Demo](https://killercodemonkey.github.io/ngx-quill-ionic-v4/)
