@@ -9,8 +9,8 @@
 
 ---
 
-### git clone ...
-### cd ...
+### git clone https://github.com/Davidzhaojb/ngx-quill-ionic-v4.git
+### cd ngx-quill-ionic-v4
 ### npm i
 ### ionic serve
 
